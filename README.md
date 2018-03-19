@@ -32,23 +32,26 @@
 
 <h2>Guest speakers</h2>
 
-<h3>October<br>
+<h2>This Season's Guest Speakers</h2>
 
-<a href="#">Jeffrey Toobin</a></h3>
+<h3>October<h3>
 
-<img src="images/toobin75.jpg" alt="Jeffrey Toobin photo">
+<a href="http://www.jeffreytoobin.com/" target="blank">Jeffrey Toobin <br>
 
-<h3>November<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOElWQ0RbdZ1VlfERyF4HM5kEQzo2kPSYaGXLzmauOIAQdh9X" style=width:75px;height:75px/></a>
 
-<a href="#">Andrew Ross Sorkin</a></h3>
+<h3>November<h3>
 
-<img src="images/sorkin75.jpg" alt="Andrew Ross Sorkin photo">
+<a href="http://www.andrewrosssorkin.com/" target="blank"> Andrew Ross Sorkin<br>
 
-<h3>January<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3PCQrLJk_qRjBx7-0Nv76bishYJE-XCAXSFL1132FZqEtsHvH" style=width:75px;height:75px/></a>
 
-<a href="#">Amy Chua</a></h3>
+<h3>January<h3>
 
-<img src="images/chua75.jpg" alt="Amy Chua photo">
+<a href="http://www.amychua.com/" target="blank">Amy Chua<br>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIj48ZigtooaXytaTrs1vDpiDKuScbKmTlErkH8z7vgopevrwR" style=width:75px;height:75px/></a>
+
 
 <h3>February<br>
 
